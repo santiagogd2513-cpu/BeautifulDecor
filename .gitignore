@@ -1,0 +1,12 @@
+.gradle/
+build/
+run/
+mcmodsrepo/
+*.iml
+.idea/
+.classpath
+.project
+.settings/
+out/
+*.class
+.DS_Store
